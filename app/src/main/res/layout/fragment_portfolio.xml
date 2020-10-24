@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/portfolioView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.portfolio.PortfolioFragment">
+
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="172dp"
+        android:layout_height="52dp"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="GoodMorning"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="172dp"
+        android:layout_height="52dp"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
+        android:layout_marginTop="100dp"
+        android:text="User Name"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="172dp"
+        android:layout_height="52dp"
+        android:layout_gravity="center|left|top"
+        android:gravity="center|fill_vertical"
+        android:layout_marginTop="300dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="  Investments(3)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="138dp"
+        android:layout_height="46dp"
+        android:gravity="right|fill_vertical"
+        android:layout_gravity="center|right|top"
+        android:layout_marginTop="300dp"
+        android:layout_marginRight="50dp"
+        android:text=" Current Invested"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="307dp"
+        android:layout_height="122dp"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="160dp"
+        android:src="@drawable/charts" />
+
+    <MultiAutoCompleteTextView
+        android:id="@+id/multiAutoCompleteTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="350dp"
+        android:text="Name of invest company               Rs 8,172 "
+         />
+
+    <MultiAutoCompleteTextView
+        android:id="@+id/multiAutoCompleteTextView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="410dp"
+        android:text="Name of invest company               Rs 8,172 "
+        />
+
+    <MultiAutoCompleteTextView
+        android:id="@+id/multiAutoCompleteTextView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="470dp"
+        android:text="Name of invest company               Rs 8,172 "
+        />
+</FrameLayout>

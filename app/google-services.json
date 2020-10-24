@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "967652637677",
+    "firebase_url": "https://financial-store.firebaseio.com",
+    "project_id": "financial-store",
+    "storage_bucket": "financial-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967652637677:android:205ef651418f39832105e4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967652637677-bc3pj6idr69jgai81qgl00o1suocq8a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtAtaeDrJMHPKkm7SYqCtDsnDpDIzddtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967652637677-bc3pj6idr69jgai81qgl00o1suocq8a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

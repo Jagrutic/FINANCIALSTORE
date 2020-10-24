@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/notificationView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+
+    tools:context=".ui.notification.NotificationFragment">
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+        android:text="Finance is a term for matters regarding the management, creation, and study of money and investments."
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="200dp"
+        android:gravity="center"
+        android:text="Finance is a term for matters regarding the management, creation, and study of money and investments."
+        android:textSize="14sp" />
+
+</FrameLayout>
+
+
+

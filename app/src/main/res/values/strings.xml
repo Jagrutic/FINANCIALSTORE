@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Financial Store</string>
+    <string name="textview">TextView</string>
+    <string name="_91">+91-</string>
+    <string name="add_your_email_id">Add Your Email Id</string>
+    <string name="let_us_know_your_pan_no">Let Us Know Your PAN No.</string>
+    <string name="proceed">Proceed</string>
+    <string name="todo">TODO</string>
+    <string name="your_mobileno">Your MobileNo.</string>
+    <string name="dashboard_designing_to_be_done">Dashboard........Designing to be done......</string>
+    <string name="hurrey">Hurrey!</string>
+    <string name="your_kyc_is_already_available_with_the_intermidiary_let_s_proceed_to_make_investments_in_mutual_funds_choosen_by_you">Your KYC is already available with the intermidiary. Let\'s Proceed to make INvestments in Mutual Funds Choosen by You....</string>
+    <string name="home">Home</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+</resources>
